@@ -11,6 +11,17 @@ The model uses the following features:
 - Previous Olympic Medal Count
 - Historical Olympic Performance
 
+## Dataset
+
+Features:
+- team
+- country
+- year
+- athletes
+- age
+- prev_medals
+- medals
+
 ## Machine Learning Model
 - Random Forest Regressor
 - Feature Engineering
